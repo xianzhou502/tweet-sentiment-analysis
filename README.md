@@ -152,6 +152,7 @@ All pipelines performed worse after neutral tweets were included. However, this 
 | File                                                    | Description                                                                                              |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | `Tweet Sentimnet Analysis_Report.docx`               | Final written report explaining the research question, methodology, results, discussion, and limitations |
+| `Tweet Sentimnet Analysis_Report.pdf`               | Final written report explaining the research question, methodology, results, discussion, and limitations |
 | `Tweet Sentimnet Analysis_Exploratory Analysis.ipynb`   | Jupyter Notebook for exploratory data analysis                                                           |
 | `Tweet Sentimnet Analysis_Exploratory Analysis.html` | HTML export of the exploratory analysis notebook                                                         |
 | `Tweet Sentimnet Analysis_Binary Task.ipynb`         | Jupyter Notebook for binary sentiment classification                                                     |
